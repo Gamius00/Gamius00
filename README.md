@@ -6,5 +6,3 @@
 ### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamius00&layout=compact&theme=tokyonight)
 
-### 🏆 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gamius00&theme=tokyonight)
