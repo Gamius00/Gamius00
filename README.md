@@ -4,7 +4,7 @@ I'm a **Software Engineer & Founder** passionate about building impactful digita
 
 - **Software Engineer @ Elevatic** Working on **Advanced Panel Box** (https://marketplace.atlassian.com/apps/28553/advanced-panelboxes-for-confluence), working for customers such as **Lufthansa, Apple, NVIDIA, and Nike**.
 
-- **Founder @ Dayova** Turning ambitious ideas into real-world digital products, combining software engineering with entrepreneurship.
+- **Founder @ Stackprep** Turning ambitious ideas into real-world digital products, combining software engineering with entrepreneurship.
 
 - **What drives me** Building scalable applications, solving complex technical challenges, leading development teams, and exploring cybersecurity.
 
